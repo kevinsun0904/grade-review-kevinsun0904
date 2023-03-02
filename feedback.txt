@@ -1,0 +1,5 @@
+-you guys have a CPATH variable but don’t use it when compiling and running the java files 
+- I like the messages that are displayed 
+-We didn’t try to calculate the percentage, so that was something different than ours but it was smart
+-It catches compiler errors so good 
+-Overall I think you guys did great! 
